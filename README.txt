@@ -1,4 +1,4 @@
-vcs-sibbe
+vcs-sibbe/anatole
 =========
 
 Test
